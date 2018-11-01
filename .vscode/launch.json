@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://BConPremDE",
+            "serverInstance": "NAV",
+            "port": 7049,
+            //"server": "http://NAVBC",
+            //"port": 7049,
+            //"serverInstance": "nav",
+            "authentication": "Windows",
+            "startupObjectId": 22
+        }
+    ]
+}
