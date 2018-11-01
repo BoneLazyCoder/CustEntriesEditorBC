@@ -8,9 +8,7 @@
             "server": "http://BConPremDE",
             "serverInstance": "NAV",
             "port": 7049,
-            //"server": "http://NAVBC",
-            //"port": 7049,
-            //"serverInstance": "nav",
+
             "authentication": "Windows",
             "startupObjectId": 22
         }
