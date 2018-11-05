@@ -5,11 +5,10 @@
             "type": "al",
             "request": "launch",
             "name": "Your own server",
-            "server": "http://BConPremDE",
+            "server": "http://BCOnPrem",
             "serverInstance": "NAV",
             "port": 7049,
-
-            "authentication": "Windows",
+            "authentication": "UserPassword",
             "startupObjectId": 22
         }
     ]
